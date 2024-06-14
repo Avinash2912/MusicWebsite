@@ -1,0 +1,106 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "COVWIN",
+        "slug": "guitar-fundamentals",
+        "description": "Designed a responsive website using HTML, CSS, and JavaScript to spread awareness about COVID-19.",
+        "price": 99.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "/courses/guitar.jpg" 
+      },
+      {
+        "id": 2,
+        "title": "VIDSNIP",
+        "slug": "piano-for-beginners",
+        "description": "Start your musical journey with foundational piano skills taught by expert instructors.",
+        "price": 109.99,
+        "instructor": "Jane Smith",
+        "isFeatured": false,
+        "image": "/courses/piano.jpg" 
+      },
+      {
+        "id": 3,
+        "title": "VIDSNIP",
+        "slug": "advanced-vocal-techniques",
+        "description": "Integrated a variety of filter effects using JavaScript and CSS to enhance captured images and videos .",
+        "price": 119.99,
+        "instructor": "Emily Johnson",
+        "isFeatured": true,
+        "image": "/courses/vocalist.jpg" 
+      },
+      {
+        "id": 4,
+        "title": "Drumming Mastery",
+        "slug": "drumming-mastery",
+        "description": "Master the drums with our comprehensive course covering all skill levels.",
+        "price": 129.99,
+        "instructor": "Mike Brown",
+        "isFeatured": false,
+        "image": "/courses/drumming.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Jazz Improvisation",
+        "slug": "jazz-improvisation",
+        "description": "Learn the art of jazz improvisation with this course designed for all levels.",
+        "price": 139.99,
+        "instructor": "Chris Davis",
+        "isFeatured": false,
+        "image": "/courses/jazz.jpg"
+      },
+      {
+        "id": 6,
+        "title": "DRAWEASE",
+        "slug": "music-production-fundamentals",
+        "description": "Created a collaborative web application using HTML, CSS, and JavaScript, enabling 500+ users to interact simultaneously on a virtual whiteboard in real-time, fostering efficient teamwork and boosting productivity by 40%.",
+        
+        "price": 149.99,
+        "instructor": "Alex Wilson",
+        "isFeatured": true,
+        "image": "/courses/music-prod.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Songwriting Essentials",
+        "slug": "songwriting-essentials",
+        "description": "Learn the essentials of songwriting to express your musical creativity.",
+        "price": 159.99,
+        "instructor": "Samantha Miller",
+        "isFeatured": false,
+        "image": "/courses/song-writing.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Electronic Music Production",
+        "slug": "electronic-music-production",
+        "description": "Create compelling electronic music with our course designed for beginners to advanced users.",
+        "price": 169.99,
+        "instructor": "Luke Harris",
+        "isFeatured": true,
+        "image": "/courses/music-prod.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Classical Music History",
+        "slug": "classical-music-history",
+        "description": "Explore the rich history of classical music from its origins to the present day.",
+        "price": 179.99,
+        "instructor": "Grace Lee",
+        "isFeatured": false,
+        "image": "/courses/classical-music.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Blues Guitar Techniques",
+        "slug": "blues-guitar-techniques",
+        "description": "Discover the techniques of blues guitar to add soul and depth to your playing.",
+        "price": 189.99,
+        "instructor": "Ethan Moore",
+        "isFeatured": true,
+        "image": "/courses/blues.jpg"
+      }
+    ]
+  }
+  
